@@ -1,0 +1,36 @@
+HOW TO KNOW WHICH CARD TO DRAFT ?
+BECAUSE MY STRATEGY IS AN AGGRESSIVE ONE, I HAVE TO CHOOSE THE CARDS THAT WOULD POTENTIALLY
+GIVE ME THE HIGHEST POTENTIAL DAMAGE OUTPUT
+
+	CALCULATE POTENTIAL DAMAGE OUTPUT:
+	----------------------------------
+
+Direct damage at summon = BEST, because there is 100% chance those will be dealt.
+
+Charge creatures have a better pdmgo than normal creatures
+only if this damage can be dealt directly (no opponent guard creatures left at summon) 
+
+Ward creatures have a better pdmgo than normal creatures
+because they can not be traded with only one ennemy creature.
+
+	I NEED CARDS TO GET RID OF GUARD CREATURES.
+	-------------------------------------------
+
+Lethal creatures one shot any opponent guard creature it can deal damage to.
+
+Breakthrough creatures can trade into guard creatures if their attack is sufficient
+but also provide additional pdmgo
+
+PDMGO RANKING OF ABILITIES:
+---------------------------
+
+1. DDaS 
+2. Charge 
+3. Ward
+4. Breakthrough
+
+GUARD DESTROYER RANKING OF ABILITIES:
+-------------------------------------
+
+2. Lethal
+3. High atk + Breakthrough 
